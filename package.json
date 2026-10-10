@@ -1,0 +1,1 @@
+{"name":"nutri-bio","version":"1.0.0","private":true,"description":"Site institucional Nutri Bio, pronto para Vercel","scripts":{"check":"node --check app.js && node --check config.js"}}
